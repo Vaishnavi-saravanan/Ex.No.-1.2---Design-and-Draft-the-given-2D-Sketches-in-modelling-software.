@@ -35,9 +35,10 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
- ## OUTPUT
+ ## OUTPUT!
+ [Screenshot from 2023-01-30 04-27-34](https://user-images.githubusercontent.com/118541897/215361185-967cff89-1a5e-4441-9f0d-240c95108279.png)
+
  
- [DESIGN 1.2.pdf](https://github.com/Vaishnavi-saravanan/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/10531089/DESIGN.1.2.pdf)
 
  
  
