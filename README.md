@@ -36,9 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT!
- [Screenshot from 2023-01-30 04-27-34](https://user-images.githubusercontent.com/118541897/215361185-967cff89-1a5e-4441-9f0d-240c95108279.png)
 
- 
+
+ ![exp1 2](https://user-images.githubusercontent.com/118541897/215361256-744efd79-cd9f-4a69-9e3d-687366b0b24e.png)
+
 
  
  
